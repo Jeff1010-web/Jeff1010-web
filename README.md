@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeff1010-web
+- 👋 Hi, I’m Wang
 - 👀 I’m interested in Cyber Security and am a developer with other knowledge in data mining
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on software development projects 
