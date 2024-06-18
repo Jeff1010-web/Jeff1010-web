@@ -7,6 +7,7 @@
   <a href="https://github.com/Jeff1010-web"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Blockchain%20Developer;Smart%20Contract%20Security%20Auditor;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+
 <div align="center">
   <img src="./divider1.png" alt="divider"/>
 </div> 
